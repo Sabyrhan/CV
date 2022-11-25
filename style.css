@@ -1,0 +1,13 @@
+
+body {background-color: blueviolet;}
+ul {background-color: burlywood; width:100;}
+h1 {color: rgb(250, 3, 3); 
+    background-color: chartreuse; 
+    width: 500px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 6;}
+table {background-color: darkorange;}
+button {background-color: rgb(253, 0, 34);}
+#tokaev {width: 190px; border-radius: 50%; }
